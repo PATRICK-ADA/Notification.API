@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Notification.API.Notification.Web.Controllers.HighestBiddderController",
+    "Method": "GetHighestBidderAsync",
+    "RelativePath": "api/HighestBiddder/GetHighestBidder",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

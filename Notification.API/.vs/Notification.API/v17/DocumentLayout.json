@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\notification\\notification.api\\notification.api\\nofication.core\\services\\bidsconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\nofication.core\\services\\bidsconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\notification\\notification.api\\notification.api\\nofication.core\\services\\notification_publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\nofication.core\\services\\notification_publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\notification\\notification.api\\notification.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\notification\\notification.api\\notification.api\\notification.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\notification.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\notification\\notification.api\\notification.api\\notification.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\notification.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 125,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 32,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notification_Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\Nofication.Core\\Services\\Notification_Publisher.cs",
+              "RelativeDocumentMoniker": "Notification.API\\Nofication.Core\\Services\\Notification_Publisher.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\Nofication.Core\\Services\\Notification_Publisher.cs",
+              "RelativeToolTip": "Notification.API\\Nofication.Core\\Services\\Notification_Publisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:41:53.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Notification.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\appsettings.json",
+              "RelativeToolTip": "Notification.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T21:36:41.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\Notification.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Notification.API\\Notification.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\Notification.Web\\Program.cs",
+              "RelativeToolTip": "Notification.API\\Notification.Web\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwDcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:29:03.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BidsConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\Nofication.Core\\Services\\BidsConsumer.cs",
+              "RelativeDocumentMoniker": "Notification.API\\Nofication.Core\\Services\\BidsConsumer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\Nofication.Core\\Services\\BidsConsumer.cs",
+              "RelativeToolTip": "Notification.API\\Nofication.Core\\Services\\BidsConsumer.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:23:51.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\Notification.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Notification.API\\Notification.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\Notification.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Notification.API\\Notification.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:14:16.269Z"
+            }
+          ]
+        },
+        {
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
