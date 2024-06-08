@@ -1,8 +1,5 @@
-﻿
-using Confluent.Kafka;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using  ILogger = Serilog.ILogger;
-using Newtonsoft.Json;
 using RoomService.Infrastructure.Data;
 using Notification.API.Nofication.Core.Abstraction;
 using BidService.API.BidService.Domain.RequestDto;

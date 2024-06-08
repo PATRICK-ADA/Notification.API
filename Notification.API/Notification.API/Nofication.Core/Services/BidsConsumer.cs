@@ -63,7 +63,7 @@ namespace Invoice.API.KafkaConsumerService
                 }
                 catch (Exception ex)
                 {
-                    _logger.Error(ex, "An error occurred while consuming Kafka messages.");
+                    _logger.Error(ex.Message, "An error occurred while consuming Kafka messages.");
                 }
                 finally
                 {
