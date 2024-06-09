@@ -1,5 +1,4 @@
-﻿
-using Invoice.API.KafkaConsumerService;
+﻿using Invoice.API.KafkaConsumerService;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using Notification.API.Nofication.Core.Abstraction;
@@ -11,11 +10,28 @@ namespace Notification.API.Notification.Web.Extensions
 {
     public static class ServiceRegistrations
     {
-        public static void ConfigureKafka(this IServiceCollection services)
+        public static IServiceCollection ConfigureKafka(this IServiceCollection services)
         {
 
 
             services.AddHostedService<BidConsumer>();
+            return services;    
+        }
+
+
+        public static WebApplicationBuilder AddSerilog(this WebApplicationBuilder builder)
+        {
+
+
+            builder.Host.UseSerilog((context, config) =>
+            {
+                config.Enrich.FromLogContext()
+                    .WriteTo.Console()
+                    .ReadFrom.Configuration(context.Configuration);
+
+            });
+            return builder;
+
         }
 
         public static IServiceCollection AppServices(this IServiceCollection services, IConfiguration configuration)

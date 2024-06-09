@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\notification\\notification.api\\notification.api\\notification.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\notification.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\notification\\notification.api\\notification.api\\notification.web\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\notification.web\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\notification\\notification.api\\notification.api\\nofication.core\\services\\notification_publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\nofication.core\\services\\notification_publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\notification\\notification.api\\notification.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\notification\\notification.api\\notification.api\\notification.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|solutionrelative:notification.api\\notification.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F997162C-35D1-4CCC-9E09-5C4278D284C3}|Notification.API\\Notification.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\notification\\notification.api\\notification.api\\notification.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 31,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\Notification.Web\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Notification.API\\Notification.Web\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\Notification.Web\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "Notification.API\\Notification.Web\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:21:07.813Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -42,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Notification_Publisher.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\Nofication.Core\\Services\\Notification_Publisher.cs",
               "RelativeDocumentMoniker": "Notification.API\\Nofication.Core\\Services\\Notification_Publisher.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\appsettings.json",
               "RelativeDocumentMoniker": "Notification.API\\appsettings.json",
@@ -67,19 +84,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\Notification.Web\\Program.cs",
               "RelativeDocumentMoniker": "Notification.API\\Notification.Web\\Program.cs",
               "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\Notification.Web\\Program.cs",
               "RelativeToolTip": "Notification.API\\Notification.Web\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAQwDcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T21:29:03.106Z"
+              "WhenOpened": "2024-06-06T21:29:03.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BidsConsumer.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\Nofication.Core\\Services\\BidsConsumer.cs",
               "RelativeDocumentMoniker": "Notification.API\\Nofication.Core\\Services\\BidsConsumer.cs",
@@ -92,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Notification\\Notification.API\\Notification.API\\Notification.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Notification.API\\Notification.Infrastructure\\Data\\ApplicationDbContext.cs",
